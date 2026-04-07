@@ -1,9 +1,9 @@
 {
-  "lang": "awk",
   "semver": false,
   "parser_version": "34bbdc7cce8e803096f47b625979e34c1be38127",
   "location": null,
   "url": "https://github.com/Beaglefoot/tree-sitter-awk",
   "generate": null,
-  "generate_from_json": null
+  "generate_from_json": null,
+  "lang": "awk"
 }
